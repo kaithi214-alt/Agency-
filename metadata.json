@@ -1,0 +1,6 @@
+{
+  "name": "AI Growth Agency",
+  "description": "AI-Powered Systems. Digital Marketing. Measurable Growth. Production portal for B2B digital services, lead capture, CRM, and audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
